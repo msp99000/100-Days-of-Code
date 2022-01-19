@@ -1,3 +1,5 @@
+# Simple Nitcoin Mining Walk through
+
 from hashlib import sha256
 MAX_NONCE = 100000000000
 
